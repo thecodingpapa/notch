@@ -12,4 +12,4 @@ A new Flutter project.
 
 그럼 아래 링크를 통해 시작 프로젝트를 다운로드 받고 Android Studio에서 열어줍니다.
 
-[Notched 유튜브 영상](https://youtu.be/MW-KVmnXuiE)
+[![IMAGE_ALT](https://img.youtube.com/vi/MW-KVmnXuiE/0.jpg)](https://youtu.be/MW-KVmnXuiE)
